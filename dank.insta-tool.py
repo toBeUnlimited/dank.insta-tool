@@ -1,7 +1,7 @@
 import os
 import time
 import random
-import instaloader
+import Instaloader
 from instabot import Bot
 import concurrent.futures
 from alive_progress import alive_bar
